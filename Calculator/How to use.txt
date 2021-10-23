@@ -1,0 +1,39 @@
+Default file path: (Calculator\calculator.exe)
+You can drop the calculator.exe to (C:\Windows) too.
+This way, the program can be automatically excecuted with command processor
+by excecuting "start calculator"
+============================================================================
+This is a basic four function calculator made with c
+
+The primary functions are (+, -, /, *)
+Where,
+'+' is Addition
+'-' is Subtraction
+'*' is Multiplication
+'/' is Divided
+============================================================================
+// Commands are case-sensitive
+
+(N) to exit the program. Press enter to start (only one time).
+
+You will get a prompt saying "Enter Numbers: "
+You can either put the numbers side to side like this :
+
+Enter Numbers: 5 + 5
+
+(output) 10.000000
+
+OR
+
+Enter Numbers: 5
++
+5
+
+(output) 10.000000
+
+Program will throw an expectation upon uncertain values / operators / char.
+============================================================================
+Hit (N) and enter anytime to close the program.
+
+made by _r3kt69.
+
